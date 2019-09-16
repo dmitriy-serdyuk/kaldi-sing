@@ -1,4 +1,4 @@
-Bootstrap: dmitriy-serdyuk/kaldi-singularity
+Bootstrap: shub://dmitriy-serdyuk/kaldi-singularity
 
 %post
         #echo "Installing Tools with apt-get "
