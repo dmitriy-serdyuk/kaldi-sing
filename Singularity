@@ -1,3 +1,4 @@
+Bootstrap: shub
 From: dmitriy-serdyuk/kaldi-singularity
 
 %post
